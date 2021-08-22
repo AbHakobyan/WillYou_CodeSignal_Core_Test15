@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillYou_CodeSignal_Core_Test15", "WillYou_CodeSignal_Core_Test15\WillYou_CodeSignal_Core_Test15.csproj", "{495C171A-3C9B-4282-9B3B-AD907ADE0C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495C171A-3C9B-4282-9B3B-AD907ADE0C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495C171A-3C9B-4282-9B3B-AD907ADE0C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495C171A-3C9B-4282-9B3B-AD907ADE0C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495C171A-3C9B-4282-9B3B-AD907ADE0C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8755BABA-4DD2-47FB-9996-8F8ED5D37FD9}
+	EndGlobalSection
+EndGlobal
